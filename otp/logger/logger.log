@@ -1,0 +1,721 @@
+[90m2024-06-21T13:07:31+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T13:07:31+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T13:07:31+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T13:07:31+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T13:16:20+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T13:16:20+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T13:16:21+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T13:16:21+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T13:17:50+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T13:17:50+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T13:17:51+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T13:17:51+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T13:34:52+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T13:34:52+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T13:34:52+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T13:34:52+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T15:36:39+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T15:36:39+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T15:36:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T15:36:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T15:41:25+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"sql: converting argument $14 type: unsupported type []string, a slice of string"[0m[0m
+[90m2024-06-21T15:49:42+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T15:49:42+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T15:49:42+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T15:49:42+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T15:50:19+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T15:55:21+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T15:55:21+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T15:55:21+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T15:55:21+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T15:56:16+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T15:56:31+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:05:22+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:13:44+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T16:13:44+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T16:13:44+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T16:13:44+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T16:14:06+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:14:40+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:20:06+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:20:14+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:22:29+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T16:22:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T16:22:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T16:22:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T16:22:42+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:26:36+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:26:40+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:52:49+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T16:52:49+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T16:52:49+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T16:52:49+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T16:54:11+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T16:58:11+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:03:12+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T17:03:12+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T17:03:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T17:03:12+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T17:03:22+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:03:35+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:03:51+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:04:59+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:05:01+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:05:03+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:05:37+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:05:48+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:05:49+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:11:02+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:17:47+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:18:48+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T17:18:49+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T18:34:13+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T18:43:02+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T18:43:02+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T18:43:02+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T18:43:02+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T18:43:20+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:24:28+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:24:47+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:24:49+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:24:58+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:25:23+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:25:24+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:25:26+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:30:34+05:30[0m [31mERR[0m [1merror[0m [36merror=[0m[31m[1m"pq: invalid input syntax for type json"[0m[0m
+[90m2024-06-21T19:48:46+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T19:48:46+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T19:48:47+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T19:48:47+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T19:50:29+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T19:50:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T19:50:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T19:50:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-21T19:51:26+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-21T19:51:26+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-21T19:51:26+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-21T19:51:26+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T10:27:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T10:27:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T10:27:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T10:27:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T10:30:31+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T10:30:33+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T10:30:41+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T10:30:42+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T10:33:36+05:30[0m [31mERR[0m [1mwhile verify password, email or password is incorrect, shyamalkaushik13@gmail.com (/TrainerLogin)[0m [36merror=[0m[31m[1m"crypto/bcrypt: hashedPassword is not the hash of the given password"[0m[0m
+[90m2024-06-22T10:55:48+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T10:55:48+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T10:55:48+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T10:55:48+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T11:08:32+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T11:08:32+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T11:08:32+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T11:08:32+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T12:58:12+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T12:58:12+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T12:58:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T12:58:12+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T13:04:49+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T13:04:49+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T13:04:49+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T13:04:49+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T14:47:58+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T14:47:58+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T14:47:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T14:48:50+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T14:48:50+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T14:48:50+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T14:50:10+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T14:50:10+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T14:50:10+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T15:04:21+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T15:04:21+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T15:04:22+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T15:04:22+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-22T15:15:07+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-22T15:15:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-22T15:15:08+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-22T15:15:08+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-26T17:52:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-26T17:52:16+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-26T17:52:17+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-26T17:52:17+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-26T18:01:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-26T18:01:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-26T18:01:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-26T18:01:15+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-26T19:59:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-26T19:59:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-26T19:59:23+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-26T19:59:23+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-26T20:12:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-26T20:12:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-26T20:12:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-26T20:12:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T11:32:57+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T11:32:57+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T11:32:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T11:32:58+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T11:39:43+05:30[0m [31mERR[0m [1mwhile verify password, email or password is incorrect, shyamalkaushik13@gmail.com (/TrainerLogin)[0m [36merror=[0m[31m[1m"crypto/bcrypt: hashedPassword is not the hash of the given password"[0m[0m
+[90m2024-06-27T11:41:22+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T11:41:22+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T11:41:22+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T11:41:22+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T11:56:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T11:56:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T11:56:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T11:56:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T12:21:57+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T12:21:57+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T12:21:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T12:21:58+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T12:32:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T12:32:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T12:32:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T12:32:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T13:13:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T13:13:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T13:13:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T13:13:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T14:18:45+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T14:18:45+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T14:18:45+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T14:18:45+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T15:47:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T15:47:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T15:47:30+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T15:47:30+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T17:37:37+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T17:37:37+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T17:37:38+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T17:37:38+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-06-27T17:46:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-06-27T17:46:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-06-27T17:46:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-06-27T17:46:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-02T13:57:48+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-02T13:57:48+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-02T13:57:49+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-02T13:57:49+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-02T14:02:02+05:30[0m [31mERR[0m [1mwhile verify password, email or password is incorrect, shyamalkaushik13@gmail.com (/TrainerLogin)[0m [36merror=[0m[31m[1m"crypto/bcrypt: hashedPassword is not the hash of the given password"[0m[0m
+[90m2024-07-05T10:46:42+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T10:46:42+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T10:46:43+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T10:46:43+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T10:54:25+05:30[0m [31mERR[0m [1mwhile check email and phone, shyamalkaushik13@gmail.com (/TrainerRegister)[0m [36merror=[0m[31m[1m"pq: column google_login.phone does not exist"[0m[0m
+[90m2024-07-05T10:58:00+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T10:58:00+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T10:58:00+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T10:58:00+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T12:39:23+05:30[0m [31mERR[0m [1mwhile binding json (/TrainerLogin)[0m [36merror=[0m[31m[1m"json: cannot unmarshal number into Go struct field LoginRequest.password of type string"[0m[0m
+[90m2024-07-05T12:58:56+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T12:58:56+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T12:58:56+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T12:58:56+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T13:09:12+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T13:09:12+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T13:09:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T13:09:12+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T13:44:59+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T13:44:59+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T13:44:59+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T13:44:59+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T15:47:07+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T15:47:07+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T15:47:08+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T15:47:08+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-05T16:02:34+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-05T16:02:34+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-05T16:02:35+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-05T16:02:35+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T10:26:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T10:26:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T10:26:24+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T10:26:24+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T11:47:52+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T11:47:52+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T11:47:53+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T11:47:53+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T11:49:25+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T11:49:25+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T11:49:25+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T11:49:25+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T11:51:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T11:51:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T11:51:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T11:51:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T11:52:57+05:30[0m [31mERR[0m [1mwhile getting user records, shyamalkaushik13@gmail.com (/TrainerLogin)[0m [36merror=[0m[31m[1m"sql: Scan error on column index 15, name \"courses_id\": unsupported Scan, storing driver.Value type int64 into type *[]int64"[0m[0m
+[90m2024-07-08T12:33:57+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T12:33:58+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T12:33:59+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T12:33:59+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T14:12:01+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T14:12:01+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T14:12:02+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T14:12:02+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-08T14:18:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-08T14:18:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-08T14:18:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-08T14:18:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-19T13:29:09+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-19T13:29:09+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-19T13:29:09+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-19T13:29:09+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-19T13:33:07+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-19T13:33:07+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-19T13:33:07+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-19T13:33:07+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T12:32:46+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T12:32:46+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T12:32:47+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T12:32:47+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T16:32:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T16:32:16+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T16:32:17+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T16:32:17+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:17:44+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:17:44+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:17:45+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:17:45+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:31:40+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:31:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:31:41+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:31:41+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:45:41+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:45:41+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:45:41+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:45:41+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:48:52+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:48:52+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:48:53+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:48:53+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:50:53+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:50:53+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:50:53+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:50:53+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:54:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:54:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:54:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:54:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:57:17+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:57:17+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:57:17+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:57:17+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T18:59:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T18:59:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T18:59:31+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T18:59:31+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:02:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:02:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:02:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:02:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:05:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:05:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:05:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:05:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:06:59+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:06:59+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:06:59+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:06:59+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:14:33+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:14:33+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:14:34+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:14:34+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:18:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:18:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:18:24+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:18:24+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:46:51+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:46:51+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:46:51+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:46:51+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:52:08+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:52:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:52:09+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:52:09+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:53:00+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:53:00+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:53:01+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:53:01+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T19:55:59+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T19:55:59+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T19:55:59+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T19:55:59+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T20:02:22+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T20:02:22+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T20:02:22+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T20:02:22+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-20T20:04:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-20T20:04:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-20T20:04:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-20T20:04:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T10:45:04+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T10:45:04+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T10:45:05+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T10:45:05+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:01:06+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:01:06+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:01:06+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:02:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:02:16+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:02:16+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:02:16+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:07:38+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:07:38+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:07:38+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:07:38+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:11:40+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:11:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:11:41+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:11:41+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:17:55+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:17:55+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:17:55+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:17:55+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:23:40+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:23:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:23:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:23:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-22T17:46:55+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-22T17:46:55+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-22T17:46:55+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-22T17:46:55+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T11:55:02+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T11:55:02+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T11:55:03+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T11:55:03+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:06:40+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:06:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:06:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:06:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:11:04+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:11:04+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:11:04+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:11:04+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:13:58+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:13:58+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:13:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:13:58+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:16:29+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:16:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:16:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:16:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:17:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:17:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:17:28+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:17:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:19:41+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:19:41+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:19:41+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:19:41+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:22:34+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:22:34+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:22:34+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:22:34+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T12:27:27+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T12:27:27+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T12:27:27+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T12:27:27+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-23T15:32:22+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-23T15:32:22+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-23T15:32:22+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-23T15:32:22+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T13:11:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T13:11:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T13:11:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T13:52:08+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T13:52:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T13:52:09+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T13:52:09+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T14:02:34+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T14:02:34+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T14:02:35+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T14:02:35+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T14:03:47+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T14:03:47+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T14:03:47+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T14:03:47+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T14:13:31+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T14:13:31+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T14:13:32+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T14:13:32+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T15:31:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T15:31:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T15:31:28+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T15:31:28+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T17:57:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T17:57:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T17:57:23+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T17:57:23+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T18:02:11+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T18:02:11+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T18:02:11+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T18:02:11+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T18:27:29+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T18:27:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T18:27:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T18:27:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T18:34:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T18:34:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T18:34:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T18:34:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T18:36:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T18:36:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T18:36:24+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T18:36:24+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-24T18:41:23+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-24T18:41:23+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-24T18:41:23+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-24T18:41:23+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T11:35:51+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T11:35:51+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T11:35:51+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T11:35:51+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T12:25:08+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T12:25:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T12:25:08+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T12:25:09+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T12:28:02+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T12:28:02+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T12:28:03+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T12:28:03+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T13:08:50+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T13:08:50+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T13:08:51+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T13:10:04+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T13:10:04+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T13:10:05+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T13:12:53+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T13:12:53+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T13:12:53+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T14:02:58+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T14:02:58+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T14:02:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T14:05:12+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T14:05:12+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T14:05:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T14:06:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T14:06:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T14:06:30+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T14:06:30+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T15:42:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T15:42:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T15:42:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T15:42:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T15:50:47+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T15:50:47+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T15:50:47+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T15:50:47+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T17:26:11+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T17:26:12+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T17:26:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T17:26:12+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T17:27:26+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T17:27:26+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T17:27:27+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T17:27:27+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-25T17:54:11+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-25T17:54:11+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-25T17:54:12+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-25T17:54:12+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T10:15:20+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T10:15:20+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T10:15:21+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T10:15:21+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T10:47:39+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T10:47:39+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T10:47:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T10:47:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T10:55:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T10:55:17+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T10:55:17+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T10:55:17+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T11:04:28+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T11:04:28+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T11:04:28+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T11:04:28+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T11:26:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T11:26:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T11:26:13+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T11:26:13+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:10:40+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:10:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:10:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:10:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:31:39+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:31:40+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:31:40+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:31:40+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:35:33+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:35:33+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:35:33+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:35:33+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:37:08+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:37:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:37:10+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:37:10+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:47:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:47:16+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:47:16+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:47:16+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T12:53:22+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T12:53:22+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T12:53:23+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T12:53:23+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T13:06:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T13:06:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T13:06:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T13:06:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-29T13:26:14+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-29T13:26:14+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-29T13:26:17+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-29T13:26:17+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-30T14:55:26+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-30T14:55:26+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-30T14:55:26+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-30T14:55:26+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-07-30T15:10:56+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-07-30T15:10:56+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-07-30T15:10:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-07-30T15:10:58+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-02T12:44:15+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-02T12:44:15+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-02T12:44:16+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-02T12:44:16+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-02T13:31:48+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-02T13:31:48+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-02T13:31:49+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-02T13:31:49+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T13:27:32+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T13:27:32+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T13:27:33+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T13:27:33+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T13:32:49+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T13:32:49+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T13:32:50+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T13:32:50+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T13:53:16+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T13:53:16+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T13:53:16+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T13:53:16+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T14:01:44+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T14:01:44+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T14:01:45+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T14:01:45+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T15:48:55+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T15:48:55+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T15:48:56+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T15:48:56+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T16:12:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T16:12:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T16:12:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T16:12:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-03T16:16:18+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-03T16:16:18+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-03T16:16:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-03T16:16:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T13:19:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T13:19:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T13:19:13+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T13:19:13+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T13:21:08+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T13:21:08+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T13:21:08+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T13:21:09+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T13:26:13+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T13:26:13+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T13:26:14+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T13:26:14+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T13:45:35+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T13:45:35+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T13:45:35+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T13:45:35+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T14:59:45+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T14:59:45+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T14:59:45+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T14:59:45+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T16:32:37+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T16:32:37+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T16:32:38+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T16:32:38+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T16:40:57+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T16:40:57+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T16:40:58+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T16:40:58+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T17:08:10+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T17:08:10+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T17:08:10+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T17:08:10+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T18:09:49+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T18:09:49+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T18:09:50+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T18:09:50+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T18:17:29+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T18:17:29+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T18:17:29+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T18:17:29+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T18:25:46+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T18:25:46+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T18:25:46+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T18:25:46+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T19:12:53+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T19:12:53+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T19:12:54+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T19:12:54+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-05T19:38:38+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-05T19:38:38+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-05T19:38:39+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-05T19:38:39+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T10:54:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T10:54:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T10:54:30+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T10:54:30+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T12:04:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T12:04:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T12:04:30+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T12:04:30+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T13:01:54+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T13:01:55+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T13:01:55+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T13:01:56+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T13:08:38+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T13:08:38+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T13:08:38+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T13:08:38+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T13:36:32+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T13:36:32+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T13:36:32+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T13:36:32+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T17:00:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T17:00:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T17:00:30+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T17:00:31+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-06T17:16:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-06T17:16:30+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-06T17:16:31+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-06T17:16:31+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T10:22:30+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T10:22:31+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T10:22:32+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T10:22:32+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T10:52:00+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T10:52:00+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T10:52:00+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T10:52:01+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T12:33:26+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T12:33:26+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T12:33:27+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T12:33:27+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T13:56:17+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T13:56:17+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T13:56:18+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T13:56:18+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T14:49:34+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T14:49:34+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T14:49:35+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T14:49:35+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
+[90m2024-08-07T17:09:38+05:30[0m [32mINF[0m [1mEnter for main()...[0m
+[90m2024-08-07T17:09:38+05:30[0m [32mINF[0m [1mdatabase connection : postgres[0m
+[90m2024-08-07T17:09:39+05:30[0m [32mINF[0m [1mdatabase connected successfully...[0m
+[90m2024-08-07T17:09:39+05:30[0m [32mINF[0m [1mStarting server on :8080[0m
